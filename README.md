@@ -1,3 +1,3 @@
 # wk1-assignmt
- A tribute page with basic html
-https://github.com/Wandeyajet/wk1-assignmt
+ A tribute page with HTML
+https://wandeyajet.github.io/wk1-assignmt/
